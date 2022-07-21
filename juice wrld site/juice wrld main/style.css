@@ -1,0 +1,50 @@
+body{
+
+    background-image:url('thumb-1920-1092438.jpg') ;
+
+
+}
+
+h1{
+
+color: white;
+
+text-align: center;
+font-size: 310%;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+img{
+
+height: 20%;
+width: 20%;
+border-radius: 50%;
+vertical-align: middle;
+
+}
+
+span{
+
+font-size: 270%;
+ color: white;
+
+
+}
+
+.aligned{
+
+    display: flex;
+    align-items:center;
+
+
+
+}
+
+.lucid{
+
+vertical-align: bottom;
+
+
+
+}
